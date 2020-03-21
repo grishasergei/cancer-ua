@@ -1,0 +1,5 @@
+pandas
+jupyter
+xlrd
+xlwt
+scikit-learn
